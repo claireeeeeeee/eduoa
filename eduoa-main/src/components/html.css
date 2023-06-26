@@ -1,0 +1,29 @@
+#homeImg{
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 90%;
+}
+
+#homeDiv{
+    margin-top: 5%;
+}
+
+#atitle{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 100px;
+    margin: 0 0 0 0;
+}
+
+#subtitle{
+
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+    color: cornflowerblue;
+    margin: 0 0 0 0px;
+}
+
+#subtitle2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-top: 30px;
+}
